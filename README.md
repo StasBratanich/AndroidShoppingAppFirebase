@@ -33,6 +33,10 @@
 
 ![5](https://github.com/StasBratanich/AndroidShoppingAppFirebase/assets/83605505/c01c99fd-e7ce-463b-b080-0da474d6e381)
 
+![6](https://github.com/StasBratanich/AndroidShoppingAppFirebase/assets/83605505/b9736050-13cb-4e3e-a4e0-6683e632c572)
+
+![7](https://github.com/StasBratanich/AndroidShoppingAppFirebase/assets/83605505/dd48bdd1-671a-4cee-bdae-bf14c38158bc)
+
 ## 💡 Technologies Used
 - Java
 - Android Studio
