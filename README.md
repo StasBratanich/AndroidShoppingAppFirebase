@@ -23,6 +23,15 @@
 
 ## 📌 Screenshots
 
+![1](https://github.com/StasBratanich/AndroidShoppingAppFirebase/assets/83605505/d45e3a90-e36d-4467-9e3c-845240914e0d)
+
+![2](https://github.com/StasBratanich/AndroidShoppingAppFirebase/assets/83605505/002686a5-31d9-4a12-a605-f6c0792e3e1d)
+
+![3](https://github.com/StasBratanich/AndroidShoppingAppFirebase/assets/83605505/6ced86cd-fd01-48fd-ac40-518d7f74e3d5)
+
+![4](https://github.com/StasBratanich/AndroidShoppingAppFirebase/assets/83605505/45ffa880-4187-4244-a4c7-9863c9776d7c)
+
+![5](https://github.com/StasBratanich/AndroidShoppingAppFirebase/assets/83605505/c01c99fd-e7ce-463b-b080-0da474d6e381)
 
 ## 💡 Technologies Used
 - Java
