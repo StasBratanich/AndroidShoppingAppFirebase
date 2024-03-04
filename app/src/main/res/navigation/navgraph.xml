@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navgraph"
+    app:startDestination="@id/fragmentOne">
+
+    <fragment
+        android:id="@+id/fragmentOne"
+        android:name="com.example.ShoppingApp.Fragments.FragmentLogin"
+        android:label="fragment_one"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_fragmentOne_to_fragmentTwo"
+            app:destination="@id/fragmentTwo" />
+        <action
+            android:id="@+id/action_fragmentOne_to_fragmentRegister"
+            app:destination="@id/fragmentRegister" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentTwo"
+        android:name="com.example.ShoppingApp.Fragments.FragmentShop"
+        android:label="fragment_two"
+        tools:layout="@layout/fragment_shop" >
+        <action
+            android:id="@+id/action_fragmentTwo_to_fragmentReceipt"
+            app:destination="@id/fragmentReceipt" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentRegister"
+        android:name="com.example.ShoppingApp.Fragments.FragmentRegister"
+        android:label="fragment_register"
+        tools:layout="@layout/fragment_register" >
+        <action
+            android:id="@+id/action_fragmentRegister_to_fragmentTwo"
+            app:destination="@id/fragmentTwo" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentReceipt"
+        android:name="com.example.ShoppingApp.Fragments.FragmentReceipt"
+        android:label="fragment_receipt"
+        tools:layout="@layout/fragment_receipt" />
+</navigation>
