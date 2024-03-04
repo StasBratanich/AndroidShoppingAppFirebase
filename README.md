@@ -3,7 +3,7 @@
 ***
 
 <p align="center">Hebrew explenation video</p>
-<p align="center">https://www.youtube.com/watch?v=HO3OALezzwo</p>
+<p align="center">https://www.youtube.com/watch?v=CJV-sIvx6qw</p>
 
 <p align="center"This Android app allows users to shop for groceries.</p>
 <p align="center">It features a RecyclerView for displaying products, user authentication with Firebase, and a real-time database for storing user data and receipts.</p>
