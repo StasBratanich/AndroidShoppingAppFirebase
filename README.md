@@ -6,7 +6,7 @@
 <p align="center">https://www.youtube.com/watch?v=CJV-sIvx6qw</p>
 
 <p align="center"This Android app allows users to shop for groceries.</p>
-<p align="center">It features a RecyclerView for displaying products, user authentication with Firebase, and a real-time database for storing user data, products and receipts.</p>
+<p align="center">The Shopping App is a robust Android application designed to streamline the shopping experience through modern technologies. It leverages Firebase for user authentication, real-time database functionality, and efficient receipt management. It features a RecyclerView for displaying products, user authentication with Firebase, and a real-time database for storing user data, products and receipts.</p>
 
 ## 🌟 Features
 
